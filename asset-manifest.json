@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yaun-creator-tool/static/css/main.f855e6bc.css",
+    "main.js": "/yaun-creator-tool/static/js/main.00b80087.js",
+    "static/js/453.d7446e4a.chunk.js": "/yaun-creator-tool/static/js/453.d7446e4a.chunk.js",
+    "static/media/logo.svg": "/yaun-creator-tool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yaun-creator-tool/index.html",
+    "main.f855e6bc.css.map": "/yaun-creator-tool/static/css/main.f855e6bc.css.map",
+    "main.00b80087.js.map": "/yaun-creator-tool/static/js/main.00b80087.js.map",
+    "453.d7446e4a.chunk.js.map": "/yaun-creator-tool/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.00b80087.js"
+  ]
+}
