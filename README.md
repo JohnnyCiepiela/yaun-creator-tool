@@ -1,5 +1,5 @@
 # yaun-creator-tool
-Creator tool to extract tags from videos, possibly more functionalities to be added.
+Creator tool to extract tags from YouTube videos.
 
 # Plan for the tool
 I'll probably use React and TypeScript for the frontend, and it will be deployed on GitHub Pages.
